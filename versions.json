@@ -1,0 +1,10 @@
+[
+  {
+    "version": "0.1.0",
+    "support": "too-low-warn"
+  },
+  {
+    "version": "0.1.1",
+    "support": "supported"
+  }
+]
