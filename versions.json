@@ -1,10 +1,18 @@
 [
   {
     "version": "0.1.0",
-    "support": "too-low-warn"
+    "support": "too-low"
   },
   {
     "version": "0.1.1",
+    "support": "too-low-warn"
+  },
+  {
+    "version": "0.2.0",
+    "support": "NFU"
+  },
+  {
+    "version": "0.2.1"
     "support": "supported"
   }
 ]
