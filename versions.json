@@ -12,7 +12,11 @@
     "support": "NFU"
   },
   {
-    "version": "0.2.1"
+    "version": "0.2.1",
+    "support": "NFU"
+  },
+  {
+    "version": "0.2.2",
     "support": "supported"
   }
 ]
