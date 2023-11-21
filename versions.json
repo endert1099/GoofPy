@@ -17,6 +17,10 @@
   },
   {
     "version": "0.2.2",
+    "support": "NFU"
+  },
+  {
+    "version": "0.2.3",
     "support": "supported"
   }
 ]
