@@ -81,6 +81,13 @@ Optionally takes width and height, if you want an actual window/render, and the 
   - `runAtFPS(fps)` ticks the game at `fps` frames per second
   - `getEvents()` returns all events from the last tick
   - `run(gameFunction, fps)` runs the game, using `gameFunction()` as the code and setup for the game, and running it at `fps` frames per second, easier alternitve to custom setup, but more limited and standard
+
+- `Phyics` class
+Takes x, y, z, gravity, bounce, bounceloss, shatter, shatterthreshold, ground, and mass
+  ```
+  import goofpy
+
+  phy = goofpy.Physics(0, 0, 20, 1, 5, 1, 0, 0, 0, 10)
 ---
 ## Support:
 - Email `business.endergames@gmail.com` for additional help or feedback
